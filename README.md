@@ -1,4 +1,4 @@
-# DKuzma-tasks
+# DKouzma-tasks
 
 <b>Задачи по курсу NodeJs-Backend-разработчик.</b>
 
